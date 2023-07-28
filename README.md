@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Deployed link
-[Deployed linl](https://weather-1h4oinvng-mayank-ym.vercel.app/)
+[Deployed link](https://weather-1h4oinvng-mayank-ym.vercel.app/)
 
 ## Available Scripts
 
